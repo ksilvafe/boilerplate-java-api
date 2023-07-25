@@ -16,3 +16,4 @@ mvn install
 - roles
 - upload files
 - documentation api
+- send email
